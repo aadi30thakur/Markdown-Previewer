@@ -1,6 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro:ital@1&display=swap');
+
+
 body {
   background: #c31432; /* fallback for old browsers */
   background: -webkit-linear-gradient(to right, #c31432, #240b36); /* Chrome 10-25, Safari 5.1-6 */
   background: linear-gradient(to right, #c31432, #240b36); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
-  padding : 2rem
+  padding : 2rem;
+  font-family: 'Source Sans Pro', sans-serif;
+}
+
+textarea {
+  color:white;
+  width: 100%;
+  height: 500px;
+  padding: 12px 20px;
+  box-sizing: border-box;
+  border: 2px solid rgba(173, 114, 114, 0.76);
+  border-radius: 4px;
+  background-color: #5a3b3bce;
+  resize: none;
+}
+
+#a{
+  height:500px;
 }
