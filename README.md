@@ -11,7 +11,6 @@
 
 > Preview all your Markdown on the go
 
-### 🏠 [Homepage](http://aadi30thakur.github.io/Markdown-Previewer)
 
 ### ✨ [Demo](http://aadi30thakur.github.io/Markdown-Previewer)
 
